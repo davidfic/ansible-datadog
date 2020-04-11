@@ -4,4 +4,4 @@
   roles:
     - datadog.datadog
   vars:
-    datadog_api_key: "{{datadog_api_key}}"
+    datadog_api_key: "f6b36f69226e1d47ff63721bd789edf8"
