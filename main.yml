@@ -1,4 +1,5 @@
 ---
-hosts: all
-roles:
-  - datadog.datadog
+- hosts: all
+  become: yes
+  roles:
+    - datadog.datadog
